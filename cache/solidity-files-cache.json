@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\PC\\Desktop\\my-dapp\\contracts\\NoteChain.sol": {
+      "lastModificationDate": 1741705794295,
+      "contentHash": "d0b43e6f4ff284e284cd51d04beb2849",
+      "sourceName": "contracts/NoteChain.sol",
+      "solcConfig": {
+        "version": "0.8.21",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.21"
+      ],
+      "artifacts": [
+        "NoteChain"
+      ]
+    }
+  }
+}
